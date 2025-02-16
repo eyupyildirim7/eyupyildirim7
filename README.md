@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Eyüp</h1>
 <h3 align="center">A passionate software developer with a deep love for creating innovative and efficient solutions. Continuously eager to learn and grow, I bring creativity, attention to detail, and a user-centric approach to every project. I strive to push the boundaries of technology, aiming to maximize both user experience and functionality.</h3>
 
-- 📄 Know about my experiences [https://eyupyldrm.com/](https://eyupyldrm.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
